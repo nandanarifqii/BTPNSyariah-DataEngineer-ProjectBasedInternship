@@ -15,7 +15,9 @@ a. Business Objective :
 - Visualisasi kondisi customer yang memiliki pembayaran kredit tertunda
 - Menentukan factor yang paling banyak menjadi penyebab customer menunggak
   
-b. Data Exploration (Mempresentasikan query dari database yang telah disediakan)
+b. Data Exploration (Mempresentasikan query dari database yang telah disediakan) :
+- Menggabungkan data kelima database
+- Melakukan Analisis penggunaan kartu kredit berdasarkan pengelompokkan Gender dan dari Persepktif Pendapatan 
 <img align="center" width="1000" src="Exploration_Data.png" />
 
 c. Insight Presentation (Memberikan Insgith dari Visualiasi Data yang telah diproses menggunakan Tools Visualsasi Tableau)
@@ -25,6 +27,10 @@ c. Insight Presentation (Memberikan Insgith dari Visualiasi Data yang telah dipr
 - Insight 2 :
 <img align="center" width="1000" src="Insight_2.png" />
 
-d. Kesimpulan dan Saran (Mmberikan kesimpulan dan solusi dari permasalahan serta data yang telah diolah)
+d. Kesimpulan dan Saran 
+-Kesimpulan : Koreksi tingkat pendapatan dan interaksi nasabah-bank sangat penting untuk memahami dan menangani churn nasabah, di mana churn cenderung meningkat seiring dengan penurunan pendapatan.
+
+- Saran : Melakukan analisis mendalam terhadap perilaku pembelian nasabah, termasuk cara mereka berinteraksi dengan produk dan layanan,
+serta terapkan inisiatif retensi yang fokus seperti pesan personal melalui email atau WhatsApp untuk nasabah yang menunjukkan tanda-tanda akan pergi.
 
 
