@@ -19,10 +19,10 @@ b. Data Exploration (Mempresentasikan query dari database yang telah disediakan)
 <img align="center" width="1000" src="Exploration_Data.png" />
 
 c. Insight Presentation (Memberikan Insgith dari Visualiasi Data yang telah diproses menggunakan Tools Visualsasi Tableau)
-Insight 1 :
+- Insight 1 :
 <img align="center" width="1000" src="Insight_1.png" />
 
-Insight 2 :
+- Insight 2 :
 <img align="center" width="1000" src="Insight_2.png" />
 
 d. Kesimpulan dan Saran (Mmberikan kesimpulan dan solusi dari permasalahan serta data yang telah diolah)
