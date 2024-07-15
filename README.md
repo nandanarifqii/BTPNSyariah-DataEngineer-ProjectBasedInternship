@@ -2,7 +2,7 @@
 
 ## Prerequisite
 - Memiliki Tableau dan MySQL / PostgreSQL / Microsoft SQL Developer
-- Mendowload Data Final Project (Berisi 5 File Database Kategori Kartu Kredit, Tingkat Pendidikan, Pernikahan, Status, dan Data Kartu Kredit Customer)
+- Mendowload Data Final Project (Berisi 5 File Database Kategori Kartu Kredit, Tingkat Pendidikan, Pernikahan, Status, dan Data Kartu Kredit Customer).
 
 ## Case Study
 Seorang manajer di bank merasa terganggu dengan semakin banyak pelanggan yang meninggalkan layanan kartu kredit mereka. Mereka akan sangat menghargai jika seseorang
